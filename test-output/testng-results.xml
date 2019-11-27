@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29850" started-at="2019-11-26T04:34:21Z" finished-at="2019-11-26T04:34:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29850" started-at="2019-11-26T04:34:21Z" finished-at="2019-11-26T04:34:51Z">
+      <class name="com.testapplitools.testapplitools.TraditonalTests">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:com.testapplitools.testapplitools.TraditonalTests@55d56113]" name="browserLaunch" is-config="true" duration-ms="7139" started-at="2019-11-26T10:04:21Z" finished-at="2019-11-26T10:04:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="HomeScreen()[pri:1, instance:com.testapplitools.testapplitools.TraditonalTests@55d56113]" name="HomeScreen" duration-ms="1336" started-at="2019-11-26T10:04:29Z" finished-at="2019-11-26T10:04:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeScreen -->
+        <test-method status="PASS" signature="Test1()[pri:2, instance:com.testapplitools.testapplitools.TraditonalTests@55d56113]" name="Test1" duration-ms="16236" started-at="2019-11-26T10:04:30Z" finished-at="2019-11-26T10:04:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="TableTest()[pri:3, instance:com.testapplitools.testapplitools.TraditonalTests@55d56113]" name="TableTest" duration-ms="781" started-at="2019-11-26T10:04:46Z" finished-at="2019-11-26T10:04:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TableTest -->
+        <test-method status="PASS" signature="CanvasChartTest()[pri:4, instance:com.testapplitools.testapplitools.TraditonalTests@55d56113]" name="CanvasChartTest" duration-ms="1446" started-at="2019-11-26T10:04:47Z" finished-at="2019-11-26T10:04:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CanvasChartTest -->
+        <test-method status="PASS" signature="DynamicContentTest()[pri:5, instance:com.testapplitools.testapplitools.TraditonalTests@55d56113]" name="DynamicContentTest" duration-ms="2863" started-at="2019-11-26T10:04:48Z" finished-at="2019-11-26T10:04:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DynamicContentTest -->
+      </class> <!-- com.testapplitools.testapplitools.TraditonalTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
