@@ -1,4 +1,4 @@
-# applitools_hackathon
+# Applitools_hackathon
 
 # Information
 
